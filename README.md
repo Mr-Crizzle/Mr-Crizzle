@@ -4,7 +4,7 @@
 
 💲 - Check Out https://github.com/H4r1eyDev
 
-🧲 - My Web Store https://crizzle-dev.tk
+🧲 - My Web Store https://velocity-development.xyz/
 
 <!---
 Mr-Crizzle/Mr-Crizzle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
