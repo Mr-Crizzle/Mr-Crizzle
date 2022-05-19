@@ -1,10 +1,10 @@
-🎫 - PHP, HTML And CSS Developer
+🎫 - EJS, JS, PHP, HTML And CSS Developer
 
-🧮 - Learning **JavaScript**
+🧮 - Learning more about **JS ,EJS**
 
-💲 - Check Out https://github.com/H4r1eyDev
+💲 - Check Out https://discord.gg/Q7jNdCkmH8
 
-🧲 - My Web Store https://velocity-development.xyz/
+🧲 - My Store https://crizzle-development.tk/
 
 <!---
 Mr-Crizzle/Mr-Crizzle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
